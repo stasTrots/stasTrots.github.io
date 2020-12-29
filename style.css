@@ -58,6 +58,7 @@ body {
     font-weight: 300;
     color: #2c71b8;
     line-height: 50px;
+    text-align: center;
 }
 .menu > li > a:hover {
 color: white;
