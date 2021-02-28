@@ -491,11 +491,27 @@ h1 {
     text-align: center;
     border: 2px outset white;
 }
-
+.decrement-button:hover, .increment-button:hover {
+    color: black;
+    background-color: #fff;
+}
 .product-quantity > input {
     background-color: transparent;
     border: none;
     border-bottom: 2px solid white;
     text-align: center;
     color: white;
+}
+
+
+        /* slider */
+
+
+.slider-block > div {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    line-height: 400px;
+    height: 400px;
+    font-weight: 600;
 }
